@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minimizer_generation_test", "minimizer_generation_test.vcxproj", "{01F798EC-7AFD-4C55-91DE-849CEE4EAC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F798EC-7AFD-4C55-91DE-849CEE4EAC93}.Debug|x64.ActiveCfg = Debug|x64
+		{01F798EC-7AFD-4C55-91DE-849CEE4EAC93}.Debug|x64.Build.0 = Debug|x64
+		{01F798EC-7AFD-4C55-91DE-849CEE4EAC93}.Release|x64.ActiveCfg = Release|x64
+		{01F798EC-7AFD-4C55-91DE-849CEE4EAC93}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ECD6CC7-9338-4D8C-B017-DDCB49185390}
+	EndGlobalSection
+EndGlobal
